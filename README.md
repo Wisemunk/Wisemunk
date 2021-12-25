@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wisemunk
 - 👀 I’m interested in Dev / Trading bots
-- 🌱 I’m currently an student at EPITA
-- 💞️ I’m looking to collaborate on a trading bot programmation
+- 🌱 I’m currently a student at EPITA
+- 💞️ I’m looking to collaborate on a trading bot dev
 - 📫 How to reach me email me :D
 
 <!---
