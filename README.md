@@ -2,7 +2,7 @@
 - 👀 I’m interested in Dev / Trading bots
 - 🌱 I’m currently a student at EPITA
 - 💞️ I’m looking to collaborate on a trading bot dev
-- 📫 How to reach me email me :D
+- 📫 How to reach me : Email me :D
 
 <!---
 Wisemunk/Wisemunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
