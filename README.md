@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wisemunk
-- 👀 I’m interested in Dev / Trading bots
-- 🌱 I’m currently a student at EPITA
-- 💞️ I’m looking to collaborate on a trading bot dev
-- 📫 How to reach me : Email me :D
+- 👀 I’m interested in IA / Data Science / Trading bots
+- 🌱 I’m currently a Software Engineering student at EPITA
+- 💞️ I’m looking to collaborate on a trading bot project
+- 📫 How to reach me : Email me ☣️: mohamed-badreddine.zouhair@epita.fr
 
 <!---
 Wisemunk/Wisemunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
