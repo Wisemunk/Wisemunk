@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 <h1>Stats 👀</h1>
 <hr>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wisemunk&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wisemunk&theme=white&background=fff)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisemunk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisemunk&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
