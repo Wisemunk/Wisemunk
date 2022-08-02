@@ -13,8 +13,8 @@
   👋 Hi, I’m @Wisemunk <br>
   👀 I’m interested in Full Stack Dev / IA / Data Science / Cyber Security<br>
   🌱 I’m currently a Software Engineering student at EPITA<br>
-  💞️ I’m looking for an intership for spring 2024 (6 month)<br>
-  📫 How to reach me ? Email me ☣️: mohamed-badreddine.zouhair@epita.fr<br>
+  📫 How to reach me ? Email me : mohamed-badreddine.zouhair@epita.fr
+  <h3 align="center">☣️ I’m looking for an intership for spring 2024 (6 month)</h3>
 </p>
 <hr>
 <!---
