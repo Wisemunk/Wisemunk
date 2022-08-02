@@ -11,7 +11,7 @@
  <hr>
 <p align="center">
   👋 Hi, I’m @Wisemunk <br>
-  👀 I’m interested in Dev / IA / Data Science / Cyber Security<br>
+  👀 I’m interested in Full Stack Dev / IA / Data Science / Cyber Security<br>
   🌱 I’m currently a Software Engineering student at EPITA<br>
   💞️ I’m looking for an intership for spring 2024 (6 month)<br>
   📫 How to reach me ? Email me ☣️: mohamed-badreddine.zouhair@epita.fr<br>
