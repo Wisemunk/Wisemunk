@@ -1,5 +1,5 @@
 <h1>:man_technologist: About me</h1>
-  <h2 align="center">Hard work will payoff one day 🌱</h2>
+  <h2 align="center">Hard work will payoff one day 🌱💪🏽</h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
