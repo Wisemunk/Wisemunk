@@ -8,7 +8,7 @@
   👀 I’m interested in Full Stack Dev / IA / Data Science / Cyber Security<br>
   🌱 I’m currently a Software Engineering student at EPITA<br>
   📫 How to reach me ? Email me : mohamed-badreddine.zouhair@epita.fr
-  <h3 align="center">☣️ I’m looking for an intership for spring 2024 (6 month)</h3>
+  <!--<h3 align="center">☣️ I’m looking for an intership for spring 2024 (6 month)</h3>-->
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mohamed-zouhair-1b6a16171/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
